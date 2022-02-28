@@ -154,6 +154,10 @@ header {
         display:block;
         color:#fff;
         -webkit-font-smoothing:antialiased;
+        ul li a:hover{
+          background:lime;
+          color:red:
+        }
       }
     }
   }
